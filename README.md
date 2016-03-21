@@ -1,5 +1,5 @@
-# hello-world
-what is this? one repository?
+#倚天屠龙记
 
-this is 1 change edit, what is hanppen?
-能写中文是肯定的啦，写小说也不错哦
+第一章
+
+元朝末年，武当弟子张翠山与天鹰教教主之女殷素素因卷入到屠龙刀的争夺之中，与金毛狮王谢逊一起漂流到海上荒岛。张与殷二人结合生子，取名无忌。
